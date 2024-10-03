@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KimDaegyu</h1>
 <h3 align="center">Seoul National University of Science and Technology Major<br/>
   in Computer Science Majoring<br/>
-  in Visual Design</h3>
+  in Visual Communication Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimdaegyu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kimdaegyu-dev" /> </p>
 
