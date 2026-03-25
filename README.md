@@ -77,5 +77,5 @@ Seoul National University of Science and Technology
 ---
 
 <div align="center">
-  <sub>Crafted with code & design · Seoul, Korea</sub>
+  <sub>Seoul, Korea</sub>
 </div>
